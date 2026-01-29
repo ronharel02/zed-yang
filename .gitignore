@@ -1,2 +1,5 @@
 example.yang
-grammars
+grammars/
+target/
+Cargo.lock
+extension.wasm
